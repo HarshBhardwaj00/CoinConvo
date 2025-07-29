@@ -1,11 +1,11 @@
-# 💱 Currency Converter App (INR ➡ USD)
+# 💱 Currency Converter App (USD ➡ INR)
 
-A beginner-friendly Flutter app that converts Indian Rupees (INR) to US Dollars (USD).  
+A beginner-friendly Flutter app that converts US Dollars (USD) to Indian Rupees (INR).  
 Built as part of a personal Flutter learning journey with focus on clean UI and basic interactivity.
 
 ## 🚀 Features
 
-- Convert INR to USD
+- Convert USD to INR
 - Simple and intuitive Material UI
 - Clean layout with basic Flutter widgets
 - Proper inline code comments for understanding
